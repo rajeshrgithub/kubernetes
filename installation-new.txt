@@ -134,6 +134,7 @@ kubectl exec -it pod/multicontainer-pods bash -n facebook -c db
 
 
 https://github.com/bvijaycom/jino-kubernetes/blob/master/pod/2.1-duplicate-port-multipod.yaml
+https://github.com/rajeshrgithub/kubernetes/blob/master/pod/2.1-duplicate-port-multipod.yaml
 
 kubectl apply -f 2.1-duplicate-port-multipod.yaml
 
